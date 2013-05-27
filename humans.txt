@@ -1,0 +1,4 @@
+{
+  "name": "megagon.org",
+  "version": "1.0"
+}
